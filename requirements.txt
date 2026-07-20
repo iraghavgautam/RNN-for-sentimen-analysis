@@ -1,0 +1,13 @@
+# Data Manipulation & Numerical Computing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Machine Learning & Text Preprocessing
+scikit-learn>=1.4.0
+nltk>=3.8.0
+
+# Deep Learning Framework
+torch>=2.2.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
